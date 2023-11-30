@@ -40,6 +40,9 @@ chsh -s /bin/bash username
 ```
 (Again, replace ```<username>``` with the name you want to put as username)
 
+
+
+
 **Step4: Enable SSH Access for the New User**
 1) On your local machine, generate a SSH key pair by using this command:
 ```
